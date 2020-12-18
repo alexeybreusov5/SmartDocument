@@ -1,1 +1,1 @@
-from SmartDocument.SmartDocument import SmartDocument
+from SmartDocument.SmartDocument import generate
